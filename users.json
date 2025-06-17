@@ -1,0 +1,1636 @@
+[
+  {
+    "id": 1,
+    "nome": "Marcelo Santos",
+    "email": "aragaomilena@bol.com.br",
+    "idade": 30,
+    "genero": "Feminino",
+    "cidade": "Nascimento",
+    "estado": "MS",
+    "ativo": false,
+    "data_cadastro": "2022-01-26",
+    "interesses": [
+      "culinária",
+      "cinema",
+      "música"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Sra. Mirella Farias",
+    "email": "mmendes@ig.com.br",
+    "idade": 46,
+    "genero": "Feminino",
+    "cidade": "Melo do Galho",
+    "estado": "RN",
+    "ativo": false,
+    "data_cadastro": "2021-11-27",
+    "interesses": [
+      "games",
+      "música",
+      "culinária"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Sophia Sales",
+    "email": "maraujo@bol.com.br",
+    "idade": 40,
+    "genero": "Feminino",
+    "cidade": "Monteiro da Mata",
+    "estado": "PE",
+    "ativo": true,
+    "data_cadastro": "2024-11-17",
+    "interesses": [
+      "games",
+      "música",
+      "leitura",
+      "culinária",
+      "viajar"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Lara Moraes",
+    "email": "levi22@da.br",
+    "idade": 28,
+    "genero": "Masculino",
+    "cidade": "da Rosa",
+    "estado": "RS",
+    "ativo": false,
+    "data_cadastro": "2023-02-01",
+    "interesses": [
+      "viajar",
+      "moda",
+      "música",
+      "culinária",
+      "esportes"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Cecília Cunha",
+    "email": "franciscolima@yahoo.com.br",
+    "idade": 32,
+    "genero": "Masculino",
+    "cidade": "Barbosa",
+    "estado": "SE",
+    "ativo": false,
+    "data_cadastro": "2023-12-17",
+    "interesses": [
+      "esportes",
+      "leitura",
+      "tecnologia",
+      "moda"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Kamilly Aragão",
+    "email": "portoesther@das.com",
+    "idade": 45,
+    "genero": "Masculino",
+    "cidade": "da Paz do Galho",
+    "estado": "AL",
+    "ativo": false,
+    "data_cadastro": "2023-06-30",
+    "interesses": [
+      "esportes",
+      "leitura",
+      "cinema",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Sabrina Moraes",
+    "email": "eduardabarbosa@gmail.com",
+    "idade": 45,
+    "genero": "Outro",
+    "cidade": "da Mota",
+    "estado": "MS",
+    "ativo": true,
+    "data_cadastro": "2022-07-14",
+    "interesses": [
+      "esportes",
+      "culinária",
+      "leitura"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Otávio Viana",
+    "email": "qsouza@gmail.com",
+    "idade": 50,
+    "genero": "Masculino",
+    "cidade": "Novaes",
+    "estado": "RO",
+    "ativo": false,
+    "data_cadastro": "2021-01-12",
+    "interesses": [
+      "cinema",
+      "música",
+      "leitura"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Yasmin Dias",
+    "email": "sophia41@moreira.br",
+    "idade": 37,
+    "genero": "Feminino",
+    "cidade": "da Paz do Oeste",
+    "estado": "PB",
+    "ativo": false,
+    "data_cadastro": "2023-04-18",
+    "interesses": [
+      "arte",
+      "esportes"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Lucas Gabriel da Luz",
+    "email": "rezendeenzo@duarte.br",
+    "idade": 56,
+    "genero": "Feminino",
+    "cidade": "Vieira",
+    "estado": "CE",
+    "ativo": true,
+    "data_cadastro": "2020-12-18",
+    "interesses": [
+      "games",
+      "cinema"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Sr. Francisco Lopes",
+    "email": "otavio43@das.com",
+    "idade": 42,
+    "genero": "Outro",
+    "cidade": "da Cruz do Galho",
+    "estado": "MS",
+    "ativo": false,
+    "data_cadastro": "2021-08-14",
+    "interesses": [
+      "música",
+      "leitura",
+      "culinária",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Pedro Henrique Araújo",
+    "email": "larissa16@uol.com.br",
+    "idade": 55,
+    "genero": "Outro",
+    "cidade": "Moraes do Galho",
+    "estado": "CE",
+    "ativo": false,
+    "data_cadastro": "2024-03-05",
+    "interesses": [
+      "tecnologia",
+      "culinária"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Murilo Duarte",
+    "email": "da-cruzsofia@hotmail.com",
+    "idade": 32,
+    "genero": "Masculino",
+    "cidade": "Viana",
+    "estado": "PR",
+    "ativo": true,
+    "data_cadastro": "2022-12-14",
+    "interesses": [
+      "arte",
+      "cinema",
+      "viajar"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Isadora Nogueira",
+    "email": "oalmeida@pereira.com",
+    "idade": 55,
+    "genero": "Masculino",
+    "cidade": "Moraes",
+    "estado": "AC",
+    "ativo": false,
+    "data_cadastro": "2023-07-10",
+    "interesses": [
+      "culinária",
+      "esportes",
+      "arte",
+      "cinema"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Eloah Oliveira",
+    "email": "emanuel71@cavalcanti.net",
+    "idade": 64,
+    "genero": "Outro",
+    "cidade": "da Costa",
+    "estado": "PB",
+    "ativo": false,
+    "data_cadastro": "2021-08-02",
+    "interesses": [
+      "leitura",
+      "moda",
+      "música",
+      "esportes"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Maria Julia Carvalho",
+    "email": "bpeixoto@uol.com.br",
+    "idade": 29,
+    "genero": "Feminino",
+    "cidade": "Costela",
+    "estado": "AP",
+    "ativo": true,
+    "data_cadastro": "2022-05-27",
+    "interesses": [
+      "viajar",
+      "arte",
+      "tecnologia",
+      "culinária"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Isadora Azevedo",
+    "email": "ramosmaria-eduarda@da.net",
+    "idade": 21,
+    "genero": "Masculino",
+    "cidade": "Melo",
+    "estado": "DF",
+    "ativo": true,
+    "data_cadastro": "2020-11-02",
+    "interesses": [
+      "tecnologia",
+      "culinária"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Catarina Dias",
+    "email": "fernando35@novaes.net",
+    "idade": 38,
+    "genero": "Masculino",
+    "cidade": "Cunha de Minas",
+    "estado": "CE",
+    "ativo": false,
+    "data_cadastro": "2022-05-06",
+    "interesses": [
+      "arte",
+      "leitura",
+      "esportes",
+      "games",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Isabella Martins",
+    "email": "sazevedo@uol.com.br",
+    "idade": 51,
+    "genero": "Feminino",
+    "cidade": "Pereira",
+    "estado": "ES",
+    "ativo": true,
+    "data_cadastro": "2020-10-05",
+    "interesses": [
+      "viajar",
+      "culinária"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Nina Cavalcanti",
+    "email": "costamaria-eduarda@bol.com.br",
+    "idade": 20,
+    "genero": "Masculino",
+    "cidade": "da Mota do Oeste",
+    "estado": "MA",
+    "ativo": false,
+    "data_cadastro": "2023-05-12",
+    "interesses": [
+      "viajar",
+      "cinema",
+      "games",
+      "tecnologia",
+      "culinária"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Isabel Melo",
+    "email": "dsilva@vieira.com",
+    "idade": 51,
+    "genero": "Feminino",
+    "cidade": "da Mota da Praia",
+    "estado": "PB",
+    "ativo": true,
+    "data_cadastro": "2023-01-09",
+    "interesses": [
+      "arte",
+      "esportes"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Srta. Maria Fernanda Duarte",
+    "email": "lunafogaca@oliveira.com",
+    "idade": 67,
+    "genero": "Feminino",
+    "cidade": "das Neves do Amparo",
+    "estado": "SC",
+    "ativo": false,
+    "data_cadastro": "2023-08-26",
+    "interesses": [
+      "leitura",
+      "música",
+      "cinema",
+      "esportes"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Felipe da Paz",
+    "email": "rochamurilo@gmail.com",
+    "idade": 55,
+    "genero": "Masculino",
+    "cidade": "Vieira",
+    "estado": "AM",
+    "ativo": true,
+    "data_cadastro": "2020-07-25",
+    "interesses": [
+      "culinária",
+      "leitura"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Sr. Pedro Nogueira",
+    "email": "ana-laura91@da.com",
+    "idade": 58,
+    "genero": "Outro",
+    "cidade": "Porto",
+    "estado": "RN",
+    "ativo": true,
+    "data_cadastro": "2024-07-26",
+    "interesses": [
+      "viajar",
+      "cinema"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Renan Almeida",
+    "email": "coliveira@ig.com.br",
+    "idade": 47,
+    "genero": "Outro",
+    "cidade": "Cardoso",
+    "estado": "ES",
+    "ativo": false,
+    "data_cadastro": "2025-04-24",
+    "interesses": [
+      "tecnologia",
+      "esportes"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Sra. Brenda Peixoto",
+    "email": "leticiasilveira@azevedo.com",
+    "idade": 53,
+    "genero": "Feminino",
+    "cidade": "da Cunha da Praia",
+    "estado": "MG",
+    "ativo": true,
+    "data_cadastro": "2024-08-15",
+    "interesses": [
+      "culinária",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Dra. Ana Pereira",
+    "email": "marianesouza@nunes.org",
+    "idade": 41,
+    "genero": "Outro",
+    "cidade": "Teixeira do Norte",
+    "estado": "RJ",
+    "ativo": false,
+    "data_cadastro": "2021-10-18",
+    "interesses": [
+      "leitura",
+      "moda"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Luiz Otávio Rezende",
+    "email": "bernardo38@da.org",
+    "idade": 60,
+    "genero": "Masculino",
+    "cidade": "Rodrigues",
+    "estado": "SC",
+    "ativo": true,
+    "data_cadastro": "2022-12-08",
+    "interesses": [
+      "culinária",
+      "leitura",
+      "viajar",
+      "games",
+      "arte"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Danilo Silveira",
+    "email": "cunhabarbara@gmail.com",
+    "idade": 29,
+    "genero": "Outro",
+    "cidade": "Lima de Cardoso",
+    "estado": "SP",
+    "ativo": true,
+    "data_cadastro": "2021-07-22",
+    "interesses": [
+      "música",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Heitor Campos",
+    "email": "da-cunhaalice@hotmail.com",
+    "idade": 28,
+    "genero": "Masculino",
+    "cidade": "Nascimento das Pedras",
+    "estado": "RO",
+    "ativo": true,
+    "data_cadastro": "2024-08-08",
+    "interesses": [
+      "arte",
+      "moda"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Srta. Letícia da Luz",
+    "email": "kpinto@freitas.br",
+    "idade": 24,
+    "genero": "Feminino",
+    "cidade": "Ferreira",
+    "estado": "PB",
+    "ativo": false,
+    "data_cadastro": "2021-07-21",
+    "interesses": [
+      "games",
+      "moda"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Levi Silveira",
+    "email": "xcarvalho@ig.com.br",
+    "idade": 33,
+    "genero": "Masculino",
+    "cidade": "Cardoso",
+    "estado": "RR",
+    "ativo": false,
+    "data_cadastro": "2023-11-04",
+    "interesses": [
+      "viajar",
+      "moda",
+      "leitura",
+      "cinema",
+      "games"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Nina da Paz",
+    "email": "moreirayasmin@da.com",
+    "idade": 54,
+    "genero": "Outro",
+    "cidade": "Almeida",
+    "estado": "AP",
+    "ativo": false,
+    "data_cadastro": "2025-03-23",
+    "interesses": [
+      "moda",
+      "esportes",
+      "culinária"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Thales Rodrigues",
+    "email": "krocha@moraes.org",
+    "idade": 38,
+    "genero": "Feminino",
+    "cidade": "Pires",
+    "estado": "AC",
+    "ativo": false,
+    "data_cadastro": "2020-08-31",
+    "interesses": [
+      "arte",
+      "música",
+      "esportes"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Emanuelly Nascimento",
+    "email": "helenaduarte@ig.com.br",
+    "idade": 24,
+    "genero": "Outro",
+    "cidade": "Silveira de Lima",
+    "estado": "PI",
+    "ativo": true,
+    "data_cadastro": "2023-04-18",
+    "interesses": [
+      "tecnologia",
+      "culinária",
+      "música"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Davi Lucas Vieira",
+    "email": "almeidaguilherme@ig.com.br",
+    "idade": 64,
+    "genero": "Feminino",
+    "cidade": "Costela",
+    "estado": "PB",
+    "ativo": false,
+    "data_cadastro": "2024-12-28",
+    "interesses": [
+      "arte",
+      "moda",
+      "viajar",
+      "tecnologia",
+      "games"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Davi Lucca da Rosa",
+    "email": "lucas-gabrielmelo@yahoo.com.br",
+    "idade": 43,
+    "genero": "Masculino",
+    "cidade": "Cavalcanti",
+    "estado": "SP",
+    "ativo": true,
+    "data_cadastro": "2024-04-15",
+    "interesses": [
+      "moda",
+      "tecnologia",
+      "leitura"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Clarice Costela",
+    "email": "antonio72@rezende.org",
+    "idade": 24,
+    "genero": "Feminino",
+    "cidade": "Pereira",
+    "estado": "SC",
+    "ativo": true,
+    "data_cadastro": "2020-08-17",
+    "interesses": [
+      "leitura",
+      "cinema",
+      "arte",
+      "esportes"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Luiz Henrique Souza",
+    "email": "catarina86@ribeiro.org",
+    "idade": 28,
+    "genero": "Outro",
+    "cidade": "Azevedo de Azevedo",
+    "estado": "AP",
+    "ativo": false,
+    "data_cadastro": "2023-12-13",
+    "interesses": [
+      "tecnologia",
+      "moda",
+      "leitura"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Rafaela Rodrigues",
+    "email": "theo20@pires.org",
+    "idade": 46,
+    "genero": "Feminino",
+    "cidade": "Lopes",
+    "estado": "GO",
+    "ativo": false,
+    "data_cadastro": "2024-07-26",
+    "interesses": [
+      "culinária",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Daniel Farias",
+    "email": "brunosales@hotmail.com",
+    "idade": 43,
+    "genero": "Feminino",
+    "cidade": "Barbosa",
+    "estado": "AM",
+    "ativo": false,
+    "data_cadastro": "2022-06-13",
+    "interesses": [
+      "esportes",
+      "música",
+      "games",
+      "viajar",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "João Guilherme Costa",
+    "email": "fogacaluiza@freitas.net",
+    "idade": 69,
+    "genero": "Masculino",
+    "cidade": "Melo de da Luz",
+    "estado": "RR",
+    "ativo": false,
+    "data_cadastro": "2024-02-14",
+    "interesses": [
+      "culinária",
+      "arte",
+      "games",
+      "moda"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Isaac Araújo",
+    "email": "pedro-henriquepinto@da.com",
+    "idade": 27,
+    "genero": "Masculino",
+    "cidade": "Gomes",
+    "estado": "AP",
+    "ativo": false,
+    "data_cadastro": "2024-05-19",
+    "interesses": [
+      "viajar",
+      "esportes",
+      "games",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Maria Pereira",
+    "email": "vieirarodrigo@gmail.com",
+    "idade": 56,
+    "genero": "Outro",
+    "cidade": "Carvalho do Galho",
+    "estado": "MG",
+    "ativo": false,
+    "data_cadastro": "2021-05-18",
+    "interesses": [
+      "tecnologia",
+      "cinema"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Emanuel Moraes",
+    "email": "ecardoso@pinto.com",
+    "idade": 47,
+    "genero": "Masculino",
+    "cidade": "Alves",
+    "estado": "SC",
+    "ativo": true,
+    "data_cadastro": "2023-01-25",
+    "interesses": [
+      "arte",
+      "games",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Ana Julia Moreira",
+    "email": "goncalvesmaite@ig.com.br",
+    "idade": 34,
+    "genero": "Feminino",
+    "cidade": "das Neves",
+    "estado": "MT",
+    "ativo": true,
+    "data_cadastro": "2024-02-24",
+    "interesses": [
+      "viajar",
+      "leitura",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Luiz Fernando Lopes",
+    "email": "giovanna36@yahoo.com.br",
+    "idade": 19,
+    "genero": "Feminino",
+    "cidade": "da Rocha de Minas",
+    "estado": "CE",
+    "ativo": true,
+    "data_cadastro": "2024-05-19",
+    "interesses": [
+      "arte",
+      "moda",
+      "culinária"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Lívia da Paz",
+    "email": "da-rochadavi-lucca@cavalcanti.com",
+    "idade": 44,
+    "genero": "Masculino",
+    "cidade": "Teixeira",
+    "estado": "SP",
+    "ativo": true,
+    "data_cadastro": "2021-04-13",
+    "interesses": [
+      "culinária",
+      "games"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Rodrigo Mendes",
+    "email": "lavinialopes@uol.com.br",
+    "idade": 18,
+    "genero": "Masculino",
+    "cidade": "Costa",
+    "estado": "MT",
+    "ativo": true,
+    "data_cadastro": "2021-07-28",
+    "interesses": [
+      "games",
+      "arte",
+      "música",
+      "leitura",
+      "moda"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Leandro Moura",
+    "email": "cardosoluana@novaes.net",
+    "idade": 69,
+    "genero": "Outro",
+    "cidade": "Pereira Verde",
+    "estado": "SP",
+    "ativo": false,
+    "data_cadastro": "2021-03-06",
+    "interesses": [
+      "cinema",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Diego Rodrigues",
+    "email": "gabriel85@costa.com",
+    "idade": 37,
+    "genero": "Feminino",
+    "cidade": "Nunes",
+    "estado": "PA",
+    "ativo": true,
+    "data_cadastro": "2023-05-06",
+    "interesses": [
+      "leitura",
+      "esportes"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Ana Beatriz Farias",
+    "email": "da-rosaalicia@ribeiro.br",
+    "idade": 40,
+    "genero": "Outro",
+    "cidade": "Ferreira de Minas",
+    "estado": "MT",
+    "ativo": true,
+    "data_cadastro": "2024-11-18",
+    "interesses": [
+      "moda",
+      "música",
+      "arte",
+      "cinema",
+      "culinária"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Ana Julia Silva",
+    "email": "lara21@gmail.com",
+    "idade": 42,
+    "genero": "Outro",
+    "cidade": "da Cruz",
+    "estado": "MT",
+    "ativo": true,
+    "data_cadastro": "2024-06-05",
+    "interesses": [
+      "esportes",
+      "moda",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "João Miguel Costa",
+    "email": "da-luzheitor@hotmail.com",
+    "idade": 19,
+    "genero": "Feminino",
+    "cidade": "Costela da Prata",
+    "estado": "PI",
+    "ativo": false,
+    "data_cadastro": "2021-09-19",
+    "interesses": [
+      "arte",
+      "música",
+      "esportes",
+      "cinema",
+      "leitura"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Cauê Alves",
+    "email": "tda-rocha@uol.com.br",
+    "idade": 66,
+    "genero": "Masculino",
+    "cidade": "Pires",
+    "estado": "ES",
+    "ativo": false,
+    "data_cadastro": "2020-10-11",
+    "interesses": [
+      "esportes",
+      "cinema"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Dr. Joaquim Moraes",
+    "email": "vicentepeixoto@ig.com.br",
+    "idade": 31,
+    "genero": "Masculino",
+    "cidade": "Correia",
+    "estado": "ES",
+    "ativo": false,
+    "data_cadastro": "2023-07-02",
+    "interesses": [
+      "arte",
+      "esportes",
+      "moda"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Levi Almeida",
+    "email": "marinacorreia@monteiro.com",
+    "idade": 51,
+    "genero": "Outro",
+    "cidade": "da Cunha da Praia",
+    "estado": "CE",
+    "ativo": true,
+    "data_cadastro": "2020-09-28",
+    "interesses": [
+      "tecnologia",
+      "esportes",
+      "viajar"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Sra. Ana Beatriz Novaes",
+    "email": "livia23@gmail.com",
+    "idade": 48,
+    "genero": "Feminino",
+    "cidade": "Nunes Verde",
+    "estado": "RS",
+    "ativo": true,
+    "data_cadastro": "2024-01-04",
+    "interesses": [
+      "leitura",
+      "cinema",
+      "games"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Clara da Rocha",
+    "email": "gomesluana@gmail.com",
+    "idade": 54,
+    "genero": "Feminino",
+    "cidade": "Correia de Araújo",
+    "estado": "MG",
+    "ativo": false,
+    "data_cadastro": "2020-12-28",
+    "interesses": [
+      "moda",
+      "esportes"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Kevin Alves",
+    "email": "nuneseduarda@uol.com.br",
+    "idade": 42,
+    "genero": "Outro",
+    "cidade": "Fogaça",
+    "estado": "RR",
+    "ativo": false,
+    "data_cadastro": "2024-08-09",
+    "interesses": [
+      "games",
+      "leitura",
+      "arte",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 61,
+    "nome": "Dr. Vicente Alves",
+    "email": "eduardo26@gmail.com",
+    "idade": 63,
+    "genero": "Outro",
+    "cidade": "Peixoto",
+    "estado": "RR",
+    "ativo": true,
+    "data_cadastro": "2025-02-07",
+    "interesses": [
+      "arte",
+      "moda",
+      "viajar",
+      "tecnologia",
+      "culinária"
+    ]
+  },
+  {
+    "id": 62,
+    "nome": "Marina da Rocha",
+    "email": "qaraujo@uol.com.br",
+    "idade": 42,
+    "genero": "Masculino",
+    "cidade": "Cavalcanti",
+    "estado": "DF",
+    "ativo": true,
+    "data_cadastro": "2023-09-11",
+    "interesses": [
+      "arte",
+      "games",
+      "tecnologia",
+      "leitura"
+    ]
+  },
+  {
+    "id": 63,
+    "nome": "Gabriela das Neves",
+    "email": "francisco26@uol.com.br",
+    "idade": 41,
+    "genero": "Outro",
+    "cidade": "da Mota",
+    "estado": "PE",
+    "ativo": false,
+    "data_cadastro": "2024-04-20",
+    "interesses": [
+      "moda",
+      "música",
+      "tecnologia",
+      "viajar"
+    ]
+  },
+  {
+    "id": 64,
+    "nome": "João Pedro Ramos",
+    "email": "portoluna@nascimento.net",
+    "idade": 50,
+    "genero": "Masculino",
+    "cidade": "Dias das Flores",
+    "estado": "PB",
+    "ativo": true,
+    "data_cadastro": "2024-04-25",
+    "interesses": [
+      "leitura",
+      "culinária"
+    ]
+  },
+  {
+    "id": 65,
+    "nome": "Eduardo Souza",
+    "email": "rcosta@caldeira.com",
+    "idade": 36,
+    "genero": "Masculino",
+    "cidade": "Ramos de Minas",
+    "estado": "PR",
+    "ativo": false,
+    "data_cadastro": "2020-05-29",
+    "interesses": [
+      "culinária",
+      "games"
+    ]
+  },
+  {
+    "id": 66,
+    "nome": "Juliana da Paz",
+    "email": "xda-paz@araujo.br",
+    "idade": 24,
+    "genero": "Outro",
+    "cidade": "Martins de Campos",
+    "estado": "RN",
+    "ativo": true,
+    "data_cadastro": "2024-03-05",
+    "interesses": [
+      "culinária",
+      "arte"
+    ]
+  },
+  {
+    "id": 67,
+    "nome": "Benício Cardoso",
+    "email": "joao-lucasda-conceicao@da.br",
+    "idade": 55,
+    "genero": "Feminino",
+    "cidade": "da Rosa de Barros",
+    "estado": "RN",
+    "ativo": false,
+    "data_cadastro": "2024-12-06",
+    "interesses": [
+      "arte",
+      "esportes",
+      "games",
+      "música"
+    ]
+  },
+  {
+    "id": 68,
+    "nome": "Dr. Alexandre Dias",
+    "email": "correialuiz-henrique@moraes.br",
+    "idade": 53,
+    "genero": "Feminino",
+    "cidade": "Silva",
+    "estado": "MT",
+    "ativo": true,
+    "data_cadastro": "2023-03-12",
+    "interesses": [
+      "arte",
+      "leitura",
+      "games",
+      "culinária",
+      "cinema"
+    ]
+  },
+  {
+    "id": 69,
+    "nome": "Isabelly Moreira",
+    "email": "gabriel94@bol.com.br",
+    "idade": 66,
+    "genero": "Masculino",
+    "cidade": "Nascimento",
+    "estado": "MG",
+    "ativo": true,
+    "data_cadastro": "2020-12-21",
+    "interesses": [
+      "cinema",
+      "esportes",
+      "culinária"
+    ]
+  },
+  {
+    "id": 70,
+    "nome": "Anthony Fernandes",
+    "email": "costelamatheus@nascimento.com",
+    "idade": 59,
+    "genero": "Outro",
+    "cidade": "Pereira",
+    "estado": "AP",
+    "ativo": false,
+    "data_cadastro": "2025-02-16",
+    "interesses": [
+      "música",
+      "esportes"
+    ]
+  },
+  {
+    "id": 71,
+    "nome": "Enzo Fogaça",
+    "email": "gabrielada-cunha@costela.br",
+    "idade": 45,
+    "genero": "Feminino",
+    "cidade": "Carvalho",
+    "estado": "GO",
+    "ativo": true,
+    "data_cadastro": "2022-01-26",
+    "interesses": [
+      "arte",
+      "moda",
+      "esportes",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 72,
+    "nome": "Davi Lucas Pereira",
+    "email": "mouramaria-eduarda@melo.com",
+    "idade": 46,
+    "genero": "Feminino",
+    "cidade": "Correia",
+    "estado": "RJ",
+    "ativo": true,
+    "data_cadastro": "2021-12-11",
+    "interesses": [
+      "tecnologia",
+      "culinária",
+      "esportes",
+      "moda"
+    ]
+  },
+  {
+    "id": 73,
+    "nome": "Danilo das Neves",
+    "email": "zlima@yahoo.com.br",
+    "idade": 51,
+    "genero": "Feminino",
+    "cidade": "Porto",
+    "estado": "PA",
+    "ativo": true,
+    "data_cadastro": "2021-01-13",
+    "interesses": [
+      "esportes",
+      "música",
+      "viajar",
+      "leitura",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 74,
+    "nome": "Matheus Mendes",
+    "email": "barrossophia@gmail.com",
+    "idade": 35,
+    "genero": "Feminino",
+    "cidade": "Carvalho de Costa",
+    "estado": "BA",
+    "ativo": false,
+    "data_cadastro": "2023-04-08",
+    "interesses": [
+      "moda",
+      "música"
+    ]
+  },
+  {
+    "id": 75,
+    "nome": "Mirella Ferreira",
+    "email": "caio31@gmail.com",
+    "idade": 34,
+    "genero": "Feminino",
+    "cidade": "da Rosa",
+    "estado": "RO",
+    "ativo": false,
+    "data_cadastro": "2022-07-09",
+    "interesses": [
+      "música",
+      "moda",
+      "culinária",
+      "games"
+    ]
+  },
+  {
+    "id": 76,
+    "nome": "Júlia Cardoso",
+    "email": "lorenzo54@ig.com.br",
+    "idade": 41,
+    "genero": "Feminino",
+    "cidade": "Barbosa do Galho",
+    "estado": "PE",
+    "ativo": false,
+    "data_cadastro": "2021-09-06",
+    "interesses": [
+      "games",
+      "culinária",
+      "música",
+      "tecnologia",
+      "esportes"
+    ]
+  },
+  {
+    "id": 77,
+    "nome": "Caio Duarte",
+    "email": "sarah39@gmail.com",
+    "idade": 37,
+    "genero": "Masculino",
+    "cidade": "Farias",
+    "estado": "RN",
+    "ativo": false,
+    "data_cadastro": "2022-12-21",
+    "interesses": [
+      "moda",
+      "games",
+      "culinária",
+      "arte"
+    ]
+  },
+  {
+    "id": 78,
+    "nome": "Vitor Hugo Nogueira",
+    "email": "cunhavitor@gmail.com",
+    "idade": 50,
+    "genero": "Outro",
+    "cidade": "Monteiro de Goiás",
+    "estado": "RO",
+    "ativo": true,
+    "data_cadastro": "2022-06-17",
+    "interesses": [
+      "games",
+      "leitura",
+      "arte",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 79,
+    "nome": "Emanuelly Fernandes",
+    "email": "murilo80@gmail.com",
+    "idade": 51,
+    "genero": "Feminino",
+    "cidade": "da Paz",
+    "estado": "SE",
+    "ativo": true,
+    "data_cadastro": "2025-02-27",
+    "interesses": [
+      "cinema",
+      "games",
+      "viajar",
+      "culinária",
+      "moda"
+    ]
+  },
+  {
+    "id": 80,
+    "nome": "Ana Clara Araújo",
+    "email": "luiz-felipelima@rodrigues.br",
+    "idade": 69,
+    "genero": "Outro",
+    "cidade": "Araújo",
+    "estado": "AC",
+    "ativo": true,
+    "data_cadastro": "2021-04-23",
+    "interesses": [
+      "cinema",
+      "leitura",
+      "esportes"
+    ]
+  },
+  {
+    "id": 81,
+    "nome": "Juan da Cruz",
+    "email": "peixotoana-sophia@campos.com",
+    "idade": 45,
+    "genero": "Masculino",
+    "cidade": "Duarte",
+    "estado": "RN",
+    "ativo": true,
+    "data_cadastro": "2022-07-29",
+    "interesses": [
+      "esportes",
+      "viajar",
+      "culinária",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 82,
+    "nome": "Thales Nascimento",
+    "email": "oda-paz@pinto.br",
+    "idade": 38,
+    "genero": "Outro",
+    "cidade": "Vieira de Costela",
+    "estado": "PA",
+    "ativo": true,
+    "data_cadastro": "2023-11-08",
+    "interesses": [
+      "música",
+      "cinema",
+      "moda"
+    ]
+  },
+  {
+    "id": 83,
+    "nome": "João Gabriel Monteiro",
+    "email": "jesusbenjamin@nascimento.net",
+    "idade": 34,
+    "genero": "Masculino",
+    "cidade": "Campos da Prata",
+    "estado": "MS",
+    "ativo": true,
+    "data_cadastro": "2023-03-23",
+    "interesses": [
+      "tecnologia",
+      "esportes",
+      "leitura",
+      "culinária",
+      "cinema"
+    ]
+  },
+  {
+    "id": 84,
+    "nome": "Clara Teixeira",
+    "email": "rezendelarissa@bol.com.br",
+    "idade": 41,
+    "genero": "Outro",
+    "cidade": "Caldeira",
+    "estado": "SC",
+    "ativo": true,
+    "data_cadastro": "2020-05-17",
+    "interesses": [
+      "culinária",
+      "tecnologia",
+      "cinema",
+      "moda"
+    ]
+  },
+  {
+    "id": 85,
+    "nome": "Guilherme Azevedo",
+    "email": "paulo56@moreira.com",
+    "idade": 23,
+    "genero": "Feminino",
+    "cidade": "Melo de da Mota",
+    "estado": "RN",
+    "ativo": false,
+    "data_cadastro": "2022-03-29",
+    "interesses": [
+      "tecnologia",
+      "esportes",
+      "games",
+      "cinema"
+    ]
+  },
+  {
+    "id": 86,
+    "nome": "Giovanna Teixeira",
+    "email": "vitor-gabriel07@ribeiro.net",
+    "idade": 60,
+    "genero": "Feminino",
+    "cidade": "Carvalho de Barros",
+    "estado": "TO",
+    "ativo": true,
+    "data_cadastro": "2023-11-23",
+    "interesses": [
+      "moda",
+      "esportes"
+    ]
+  },
+  {
+    "id": 87,
+    "nome": "Vitória Viana",
+    "email": "wrezende@yahoo.com.br",
+    "idade": 54,
+    "genero": "Masculino",
+    "cidade": "da Mata de da Mata",
+    "estado": "MS",
+    "ativo": false,
+    "data_cadastro": "2021-09-25",
+    "interesses": [
+      "viajar",
+      "tecnologia",
+      "moda",
+      "leitura",
+      "games"
+    ]
+  },
+  {
+    "id": 88,
+    "nome": "Olivia da Costa",
+    "email": "davi-luccalopes@uol.com.br",
+    "idade": 44,
+    "genero": "Masculino",
+    "cidade": "da Conceição",
+    "estado": "RR",
+    "ativo": true,
+    "data_cadastro": "2024-12-16",
+    "interesses": [
+      "esportes",
+      "moda",
+      "leitura",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 89,
+    "nome": "Fernanda Costa",
+    "email": "aragaoana-carolina@ig.com.br",
+    "idade": 30,
+    "genero": "Outro",
+    "cidade": "da Cruz",
+    "estado": "AM",
+    "ativo": false,
+    "data_cadastro": "2024-08-17",
+    "interesses": [
+      "música",
+      "esportes"
+    ]
+  },
+  {
+    "id": 90,
+    "nome": "Guilherme Almeida",
+    "email": "luiz-fernando47@hotmail.com",
+    "idade": 19,
+    "genero": "Masculino",
+    "cidade": "Mendes",
+    "estado": "PE",
+    "ativo": false,
+    "data_cadastro": "2024-09-25",
+    "interesses": [
+      "esportes",
+      "games",
+      "tecnologia",
+      "leitura"
+    ]
+  },
+  {
+    "id": 91,
+    "nome": "Olivia Alves",
+    "email": "monteirodavi-lucca@teixeira.br",
+    "idade": 41,
+    "genero": "Masculino",
+    "cidade": "Moura",
+    "estado": "AM",
+    "ativo": true,
+    "data_cadastro": "2022-05-31",
+    "interesses": [
+      "games",
+      "cinema",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 92,
+    "nome": "Maria Clara Souza",
+    "email": "joao-gabriellopes@ig.com.br",
+    "idade": 57,
+    "genero": "Feminino",
+    "cidade": "Freitas",
+    "estado": "PA",
+    "ativo": false,
+    "data_cadastro": "2023-07-18",
+    "interesses": [
+      "moda",
+      "música",
+      "cinema"
+    ]
+  },
+  {
+    "id": 93,
+    "nome": "Sofia Azevedo",
+    "email": "da-cruzyasmin@teixeira.org",
+    "idade": 35,
+    "genero": "Outro",
+    "cidade": "Nascimento",
+    "estado": "RN",
+    "ativo": true,
+    "data_cadastro": "2022-12-30",
+    "interesses": [
+      "leitura",
+      "moda"
+    ]
+  },
+  {
+    "id": 94,
+    "nome": "Sr. Diogo Fogaça",
+    "email": "marcos-viniciuscardoso@cavalcanti.org",
+    "idade": 23,
+    "genero": "Feminino",
+    "cidade": "Duarte de Cardoso",
+    "estado": "SC",
+    "ativo": true,
+    "data_cadastro": "2023-09-15",
+    "interesses": [
+      "leitura",
+      "tecnologia",
+      "games",
+      "música",
+      "culinária"
+    ]
+  },
+  {
+    "id": 95,
+    "nome": "Srta. Bruna Pires",
+    "email": "qjesus@da.br",
+    "idade": 59,
+    "genero": "Masculino",
+    "cidade": "Barros da Mata",
+    "estado": "RR",
+    "ativo": false,
+    "data_cadastro": "2020-06-18",
+    "interesses": [
+      "viajar",
+      "culinária",
+      "música",
+      "esportes"
+    ]
+  },
+  {
+    "id": 96,
+    "nome": "Rodrigo Almeida",
+    "email": "yramos@bol.com.br",
+    "idade": 48,
+    "genero": "Outro",
+    "cidade": "Porto de Goiás",
+    "estado": "ES",
+    "ativo": false,
+    "data_cadastro": "2021-12-02",
+    "interesses": [
+      "moda",
+      "viajar",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": 97,
+    "nome": "Maria Julia Oliveira",
+    "email": "larissasales@cardoso.br",
+    "idade": 60,
+    "genero": "Outro",
+    "cidade": "Mendes do Norte",
+    "estado": "SE",
+    "ativo": true,
+    "data_cadastro": "2021-03-11",
+    "interesses": [
+      "moda",
+      "tecnologia",
+      "esportes",
+      "games"
+    ]
+  },
+  {
+    "id": 98,
+    "nome": "Gustavo Ferreira",
+    "email": "bernardo85@yahoo.com.br",
+    "idade": 60,
+    "genero": "Outro",
+    "cidade": "Aragão",
+    "estado": "SC",
+    "ativo": false,
+    "data_cadastro": "2024-09-25",
+    "interesses": [
+      "música",
+      "esportes"
+    ]
+  },
+  {
+    "id": 99,
+    "nome": "Dr. Pedro Henrique Mendes",
+    "email": "juanmoura@ig.com.br",
+    "idade": 46,
+    "genero": "Masculino",
+    "cidade": "Gonçalves de Gonçalves",
+    "estado": "MT",
+    "ativo": false,
+    "data_cadastro": "2025-01-31",
+    "interesses": [
+      "música",
+      "cinema",
+      "moda"
+    ]
+  },
+  {
+    "id": 100,
+    "nome": "Dra. Cecília Moraes",
+    "email": "cbarros@bol.com.br",
+    "idade": 31,
+    "genero": "Masculino",
+    "cidade": "Teixeira da Serra",
+    "estado": "MG",
+    "ativo": false,
+    "data_cadastro": "2024-04-22",
+    "interesses": [
+      "música",
+      "arte",
+      "games"
+    ]
+  }
+]

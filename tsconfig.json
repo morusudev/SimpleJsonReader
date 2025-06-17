@@ -1,0 +1,20 @@
+// tsconfig.json
+{
+  "compilerOptions": {
+    "target": "es2016",                  /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', 'ES2018', 'ES2019', 'ES2020', 'ES2021', 'ES2022', 'ESNext'. */
+    "module": "commonjs",                /* Specify module code generation: 'none', 'commonjs', 'amd', 'umd', 'system', 'es2015', 'es2020', 'es2022', 'esnext', 'node16', 'nodenext'. */
+    "outDir": "./dist",                  /* Specify an output folder for all emitted files. */
+    "esModuleInterop": true,             /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
+    "forceConsistentCasingInFileNames": true,  /* Ensure that casing is correct in imports. */
+    "strict": true,                      /* Enable all strict type-checking options. */
+    "skipLibCheck": true,
+    "useUnknownInCatchVariables": false                 /* Skip type checking all .d.ts files. */
+  },
+  "include": [
+    "src/**/*"                           /* Specify an array of filenames or patterns to include in the program. */
+  ],
+  "exclude": [
+    "node_modules",                      /* Specify an array of filenames or patterns that should be excluded from the program. */
+    "**/*.spec.ts"
+  ]
+}
